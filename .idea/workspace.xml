@@ -5,120 +5,9 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="55ff5a78-3ac6-4f18-8ec1-f84fdd89adfa" name="Changes" comment="Add (Postman Collection, Allure reports pictures, Tests pictures)">
-      <change afterPath="$PROJECT_DIR$/HepsiBurada-Test/hepsiburada-files/Hepsiburada-allure-reports.rar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/HepsiBurada-Test/hepsiburada-files/hepsiburada-allure-reports-1.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/HepsiBurada-Test/hepsiburada-files/hepsiburada-allure-reports-2.png.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/HepsiBurada-Test/hepsiburada-files/hepsiburada-allure-reports-3.png.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/HepsiBurada-Test/hepsiburada-files/hepsiburada-allure-reports-4.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/HepsiBurada-Test/hepsiburada-files/hepsiburada-tests.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/HepsiBurada-Test/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/HepsiBurada-Test/src/main/java/Base/BaseLibrary.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/HepsiBurada-Test/src/main/java/Base/BaseTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/HepsiBurada-Test/src/main/java/Base/Data.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/HepsiBurada-Test/src/main/java/Pages/LoginPage.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/HepsiBurada-Test/src/test/java/LoginTests.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/RestAPI-Test/postman-petstore-files/Petstore-allure-reports.rar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/RestAPI-Test/postman-petstore-files/TechCareer.postman_collection.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/RestAPI-Test/postman-petstore-files/petstore-allure-reports.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/RestAPI-Test/postman-petstore-files/petstore-tests.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/RestAPI-Test/postman-petstore-files/postman-results.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/HepsiBurada-Test/.gitignore" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/compiler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/encodings.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/RestAPI-Test/allure-results/07444899-6324-4a4c-9933-7fd22e682b57-container.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/RestAPI-Test/allure-results/1527fb45-1666-4ffa-8449-a08d30533c75-result.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/RestAPI-Test/allure-results/1712d974-4a6f-4617-8bf8-6993959e9c1e-container.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/RestAPI-Test/allure-results/1c2e5873-70e2-4c5f-8194-49f9930afca0-container.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/RestAPI-Test/allure-results/1cece3d4-b213-4d58-b302-955b490a0e2f-container.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/RestAPI-Test/allure-results/1ea71ec0-b2dd-4913-8be2-8e0705a1b05d-result.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/RestAPI-Test/allure-results/24b99a00-9666-43a4-a285-43066d74236f-container.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/RestAPI-Test/allure-results/385a5c5e-7600-4461-ab46-051fd05e01c5-result.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/RestAPI-Test/allure-results/3df83941-d442-41f8-85f5-b803bff20926-result.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/RestAPI-Test/allure-results/4246bff0-1268-488b-9f92-6b4c4af7c7cd-container.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/RestAPI-Test/allure-results/4292f673-89f7-4749-abfe-64082a299752-container.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/RestAPI-Test/allure-results/465deffb-d0be-4607-80b4-b24bef21fbc3-result.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/RestAPI-Test/allure-results/4f00fc15-bc05-4393-bfc4-f69aded2c541-result.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/RestAPI-Test/allure-results/50d1f5af-84d8-47d9-aa8b-bcc8d68f8cd9-result.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/RestAPI-Test/allure-results/52dddf3d-5e29-4db3-9a66-3f429046ff9c-result.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/RestAPI-Test/allure-results/59681253-3eba-48ce-84e1-5e898b8f3d4f-result.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/RestAPI-Test/allure-results/5f7d9d39-b4b0-41ef-9d72-53fbe7a2e2a2-container.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/RestAPI-Test/allure-results/68bf6205-d610-4cf8-a6c2-451ee74f16a5-result.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/RestAPI-Test/allure-results/698fe3d8-660c-46d2-a9f7-10e6b6196efd-result.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/RestAPI-Test/allure-results/6bad3603-e058-497a-96fc-44c4a0994dad-result.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/RestAPI-Test/allure-results/70ea11fb-f406-4d3d-ba6e-bfa2871dd3b1-container.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/RestAPI-Test/allure-results/73c8d8e8-6c47-4dcd-920d-5e8ddede31fb-result.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/RestAPI-Test/allure-results/763e6ec6-9d1b-4954-a01c-de4c9acdfc3d-result.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/RestAPI-Test/allure-results/7a9b225f-cd95-4d7b-a666-53490a3b5e1d-result.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/RestAPI-Test/allure-results/7d44af9e-2755-4f14-8bbe-528f8cee6426-result.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/RestAPI-Test/allure-results/821a2215-db91-4cb2-8454-540eb62f4f31-result.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/RestAPI-Test/allure-results/8d2f8e08-a5aa-4ffb-ad4d-81c0ce25ee07-result.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/RestAPI-Test/allure-results/8e867bbd-4e4b-4f73-ab3e-c02a0dbaa430-result.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/RestAPI-Test/allure-results/946b5bc5-8571-4f74-882b-50c7f80b3d0b-result.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/RestAPI-Test/allure-results/96247dd9-51b5-4325-b119-94752a3beaa1-container.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/RestAPI-Test/allure-results/97ee9e52-573d-405a-9dbb-8f375c7375a2-result.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/RestAPI-Test/allure-results/9940c1cd-4b59-430d-a72b-a095c0206ae3-container.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/RestAPI-Test/allure-results/a56fbd08-c836-4990-abe6-eeb35279ddce-container.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/RestAPI-Test/allure-results/ad564b9f-e08f-4a6a-938e-ea6043fec733-result.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/RestAPI-Test/allure-results/afbcc8b6-8475-4547-b1e0-b5599bee8a63-result.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/RestAPI-Test/allure-results/b6c63e30-02a5-40e1-a15c-5d126a3fcbe4-result.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/RestAPI-Test/allure-results/c57e8e91-b2ac-45f2-9322-0990a08e11e7-result.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/RestAPI-Test/allure-results/c94d0f08-89c6-474c-b8a1-f5f84b0fda6a-result.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/RestAPI-Test/allure-results/c9fb4446-7799-4831-95a3-c0df3d632b19-result.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/RestAPI-Test/allure-results/cb41e1ce-087a-4516-a08a-733208f70087-container.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/RestAPI-Test/allure-results/ccecdf66-7104-4440-b106-1713b91a984e-container.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/RestAPI-Test/allure-results/d2920866-e1a7-4fb0-a273-dcd35899b6e1-container.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/RestAPI-Test/allure-results/d638130f-7d76-4292-94da-8c1d84ccf15e-result.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/RestAPI-Test/allure-results/dce9d6fc-66e8-4bb9-8eb4-de646e4df27b-result.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/RestAPI-Test/allure-results/e128b11e-362d-4aa7-8f33-07b6e103ac6b-result.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/RestAPI-Test/allure-results/e9b2608a-cea9-471d-aedb-331ea89f4fa4-result.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/RestAPI-Test/allure-results/ecf47f3d-edaf-47e9-99ab-e1071ec70140-result.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/RestAPI-Test/allure-results/f771c8a2-6ac8-41ec-a83c-ac591ec840e2-result.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/RestAPI-Test/target/classes/Base/Data.class" beforeDir="false" afterPath="$PROJECT_DIR$/RestAPI-Test/target/classes/Base/Data.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/RestAPI-Test/target/test-classes/PetStoreTest.class" beforeDir="false" afterPath="$PROJECT_DIR$/RestAPI-Test/target/test-classes/PetStoreTest.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/allure-results/004bdfd7-de87-4ab1-b8cf-d1ce7037cecf-container.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/allure-results/0b03ab87-d4ca-446c-93c6-283a359a6eb7-container.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/allure-results/0d73edb1-cdfd-4551-a1b3-6e5fccdd3d6c-attachment" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/allure-results/119b2d08-871d-4425-9ccc-bf1c13d92887-container.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/allure-results/15aed90f-0eff-45c6-89ba-513c052cf6bb-container.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/allure-results/187a92ac-a39a-47b8-8a60-2212aa9e0d10-container.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/allure-results/24d6cfa5-0c06-4252-b788-b86c69c4a5af-container.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/allure-results/33b547fb-3c01-4325-8726-019440b376d4-container.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/allure-results/388e25af-ce4e-421b-8b81-4adc5a9e1d03-result.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/allure-results/3bea9476-8f88-476b-856f-255a22983f63-attachment" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/allure-results/412d3865-a227-4c01-919e-72c41feaeeba-container.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/allure-results/45fd5ff0-ddcc-47d0-a8c2-b0e01840d3f2-attachment" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/allure-results/502da1e6-d364-47f4-883a-3b5015ce21bf-container.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/allure-results/51f21139-30d5-4d41-a38d-f5accab22e0e-container.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/allure-results/549d1c9f-02c5-4c8c-ac9b-fcf99fde5099-attachment.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/allure-results/54d2004c-8cce-47e3-8ae4-8f465a72720f-container.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/allure-results/55b94cd6-390d-418a-90e1-59e230cf2586-container.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/allure-results/59835985-04c5-47cc-9b33-77f00d47a2d3-result.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/allure-results/5e63e1c1-02fa-4270-8676-4868f3945bd0-container.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/allure-results/5f3e2247-f1e6-47cd-98aa-29e06b072296-container.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/allure-results/65ca1235-e8f5-42a2-821c-b8a549434d19-attachment.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/allure-results/676e8699-d312-4ede-8755-1da960b18ae9-container.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/allure-results/6cc30c3f-d6f3-417d-b816-26dc659715a9-result.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/allure-results/71cb03ee-7b0f-435c-a375-19961aa87fc6-container.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/allure-results/8888f36d-03ae-46b4-9c10-d558c25c86eb-attachment" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/allure-results/8f28c085-eeba-44e9-89fc-ba0df5469a6c-container.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/allure-results/96fcb2e0-5bea-4b5a-9b53-01925c9e3b3a-result.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/allure-results/976401b8-141d-48bd-9952-92d7549f68ac-attachment" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/allure-results/a2d8eae1-8580-4518-9a4e-8ce7ebbda0ff-container.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/allure-results/b3eb68bd-1cb8-4dbf-be47-798bef9eb69d-result.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/allure-results/c21e3695-653e-47a2-ad0a-7e7574380c02-container.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/allure-results/de3bb6b8-cb25-4cc7-a31e-347ccd337c6d-container.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/allure-results/f7fcf030-fbad-42a7-9e62-954d77336566-container.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/allure-results/ff958d32-cdfb-42c2-84fd-55b4b0163273-result.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/hepsiburada-manuel-test/Hepsiburada-Manuel-Test.xlsx" beforeDir="false" afterPath="$PROJECT_DIR$/HepsiBurada-Test/hepsiburada-files/hepsiburada-manuel-test.xlsx" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/Base/BaseLibrary.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/Base/BaseTest.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/Base/Data.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/Pages/LoginPage.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/LoginTests.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/HepsiBurada-Test/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/HepsiBurada-Test/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/RestAPI-Test/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/RestAPI-Test/pom.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -161,30 +50,30 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "Maven. [org.apache.maven.plugins:maven-archetype-plugin:RELEASE:generate].executor": "Run",
-    "Maven.Hepsiburada-test-automation [clean].executor": "Run",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "RunOnceActivity.git.unshallow": "true",
-    "TestNG.LoginTests.ExistingRegistration.executor": "Run",
-    "TestNG.LoginTests.LoginSuccesful.executor": "Run",
-    "TestNG.LoginTests.LoginUnSuccesful.executor": "Run",
-    "TestNG.LoginTests.SearchAndAddToCart.executor": "Run",
-    "TestNG.LoginTests.executor": "Run",
-    "TestNG.PetStoreTest.CreateUserWithArray.executor": "Run",
-    "TestNG.PetStoreTest.GetUser.executor": "Run",
-    "TestNG.PetStoreTest.executor": "Run",
-    "deletionFromPopupRequiresConfirmation": "false",
-    "git-widget-placeholder": "master",
-    "kotlin-language-version-configured": "true",
-    "last_opened_file_path": "C:/Users/Ahmet/source/repos/Selenium Tests/Hepsiburada-SeleniumTestAutomation/RestAPI-Test/pom.xml",
-    "project.structure.last.edited": "Modules",
-    "project.structure.proportion": "0.0",
-    "project.structure.side.proportion": "0.2",
-    "settings.editor.selected.configurable": "preferences.pluginManager"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;Maven. [org.apache.maven.plugins:maven-archetype-plugin:RELEASE:generate].executor&quot;: &quot;Run&quot;,
+    &quot;Maven.Hepsiburada-test-automation [clean].executor&quot;: &quot;Run&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.git.unshallow&quot;: &quot;true&quot;,
+    &quot;TestNG.LoginTests.ExistingRegistration.executor&quot;: &quot;Run&quot;,
+    &quot;TestNG.LoginTests.LoginSuccesful.executor&quot;: &quot;Run&quot;,
+    &quot;TestNG.LoginTests.LoginUnSuccesful.executor&quot;: &quot;Run&quot;,
+    &quot;TestNG.LoginTests.SearchAndAddToCart.executor&quot;: &quot;Run&quot;,
+    &quot;TestNG.LoginTests.executor&quot;: &quot;Run&quot;,
+    &quot;TestNG.PetStoreTest.CreateUserWithArray.executor&quot;: &quot;Run&quot;,
+    &quot;TestNG.PetStoreTest.GetUser.executor&quot;: &quot;Run&quot;,
+    &quot;TestNG.PetStoreTest.executor&quot;: &quot;Run&quot;,
+    &quot;deletionFromPopupRequiresConfirmation&quot;: &quot;false&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;master&quot;,
+    &quot;kotlin-language-version-configured&quot;: &quot;true&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/Users/Ahmet/source/repos/Selenium Tests/Hepsiburada-SeleniumTestAutomation&quot;,
+    &quot;project.structure.last.edited&quot;: &quot;Modules&quot;,
+    &quot;project.structure.proportion&quot;: &quot;0.0&quot;,
+    &quot;project.structure.side.proportion&quot;: &quot;0.2&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;preferences.pluginManager&quot;
   }
-}]]></component>
+}</component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
       <recent name="C:\Users\Ahmet\source\repos\Selenium Tests\x\HepsiBurada-Test" />
@@ -198,23 +87,22 @@
     </key>
   </component>
   <component name="RunManager" selected="TestNG.PetStoreTest">
-    <configuration name="LoginTests.ExistingRegistration" type="TestNG" temporary="true" nameIsGenerated="true">
+    <configuration name="LoginTests" type="TestNG" temporary="true" nameIsGenerated="true">
       <module name="Hepsiburada-Test" />
       <option name="PACKAGE_NAME" value="" />
       <option name="MAIN_CLASS_NAME" value="LoginTests" />
-      <option name="METHOD_NAME" value="ExistingRegistration" />
-      <option name="TEST_OBJECT" value="METHOD" />
+      <option name="TEST_OBJECT" value="CLASS" />
       <properties />
       <listeners />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="LoginTests.LoginSuccesful" type="TestNG" temporary="true" nameIsGenerated="true">
+    <configuration name="LoginTests.ExistingRegistration" type="TestNG" temporary="true" nameIsGenerated="true">
       <module name="Hepsiburada-Test" />
       <option name="PACKAGE_NAME" value="" />
       <option name="MAIN_CLASS_NAME" value="LoginTests" />
-      <option name="METHOD_NAME" value="LoginSuccesful" />
+      <option name="METHOD_NAME" value="ExistingRegistration" />
       <option name="TEST_OBJECT" value="METHOD" />
       <properties />
       <listeners />
@@ -258,8 +146,8 @@
       </method>
     </configuration>
     <list>
+      <item itemvalue="TestNG.LoginTests" />
       <item itemvalue="TestNG.LoginTests.ExistingRegistration" />
-      <item itemvalue="TestNG.LoginTests.LoginSuccesful" />
       <item itemvalue="TestNG.LoginTests.LoginUnSuccesful" />
       <item itemvalue="TestNG.LoginTests.SearchAndAddToCart" />
       <item itemvalue="TestNG.PetStoreTest" />
@@ -267,10 +155,10 @@
     <recent_temporary>
       <list>
         <item itemvalue="TestNG.PetStoreTest" />
+        <item itemvalue="TestNG.LoginTests.LoginUnSuccesful" />
+        <item itemvalue="TestNG.LoginTests" />
         <item itemvalue="TestNG.LoginTests.SearchAndAddToCart" />
         <item itemvalue="TestNG.LoginTests.ExistingRegistration" />
-        <item itemvalue="TestNG.LoginTests.LoginUnSuccesful" />
-        <item itemvalue="TestNG.LoginTests.LoginSuccesful" />
       </list>
     </recent_temporary>
   </component>
@@ -315,7 +203,15 @@
       <option name="project" value="LOCAL" />
       <updated>1737468351575</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary="Add (Postman Collection, Allure reports pictures, Tests pictures)">
+      <option name="closed" value="true" />
+      <created>1737475450127</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1737475450127</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -334,7 +230,8 @@
     <MESSAGE value="Add Allure Serve Reports" />
     <MESSAGE value="Add Manuel Test Files(xlsx)" />
     <MESSAGE value="Add PetStore tests" />
-    <option name="LAST_COMMIT_MESSAGE" value="Add PetStore tests" />
+    <MESSAGE value="Add (Postman Collection, Allure reports pictures, Tests pictures)" />
+    <option name="LAST_COMMIT_MESSAGE" value="Add (Postman Collection, Allure reports pictures, Tests pictures)" />
   </component>
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
     <SUITE FILE_PATH="coverage/hepsiburada_test_automation$LoginTests.ic" NAME="LoginTests Coverage Results" MODIFIED="1737470226383" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="true" />
