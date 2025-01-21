@@ -6,8 +6,13 @@
         <sourceOutputDir name="target/generated-sources/annotations" />
         <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
         <outputRelativeToContentRoot value="true" />
+        <module name="Hepsiburada-Test" />
         <module name="RestAPI-Test" />
       </profile>
     </annotationProcessing>
+    <bytecodeTargetLevel>
+      <module name="Hepsiburada-test-automation" target="17" />
+      <module name="Hepsiburada-Tests" target="1.8" />
+    </bytecodeTargetLevel>
   </component>
 </project>
