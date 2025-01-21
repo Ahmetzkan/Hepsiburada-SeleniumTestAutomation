@@ -1,0 +1,2 @@
+Girdiğiniz şifre eksik veya hatalı.
+Kontrol edip tekrar deneyin.

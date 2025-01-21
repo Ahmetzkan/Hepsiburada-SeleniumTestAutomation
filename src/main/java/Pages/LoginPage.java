@@ -38,7 +38,7 @@ public class LoginPage extends BaseTest {
         element.sendKeys(text);
         WebElement registerButton = driver.findElement(By.id("btnSignUpSubmit"));
         registerButton.click();
-
+        screenshot();
         return this;
     }
 
@@ -106,7 +106,7 @@ public class LoginPage extends BaseTest {
                 .perform();
 
         sleep(3000);
-
+        screenshot();
         WebDriverWait wait = new WebDriverWait(driver, Duration.ofSeconds(10));
         wait.until(ExpectedConditions.elementToBeClickable(By.id("i1"))).click();
 
@@ -123,6 +123,8 @@ public class LoginPage extends BaseTest {
         sleep(3000);
         wait.until(ExpectedConditions.elementToBeClickable(By.xpath("//button[@type='button' and text()='Sepete git']"))).click();
         wait.until(ExpectedConditions.elementToBeClickable(By.id("continue_step_btn"))).click();
+        sleep(2000);
+        screenshot();
 
         return this;
     }
