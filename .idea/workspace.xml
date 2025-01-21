@@ -4,11 +4,26 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="55ff5a78-3ac6-4f18-8ec1-f84fdd89adfa" name="Changes" comment="Add Allure Serve Reports" />
+    <list default="true" id="55ff5a78-3ac6-4f18-8ec1-f84fdd89adfa" name="Changes" comment="Add Manuel Test Files(xlsx)">
+      <change afterPath="$PROJECT_DIR$/RestAPI-Test/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/RestAPI-Test/src/main/java/Base/Data.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/RestAPI-Test/src/test/java/PetStoreTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/compiler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/encodings.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
@@ -36,20 +51,28 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.git.unshallow&quot;: &quot;true&quot;,
-    &quot;TestNG.LoginTests.ExistingRegistration.executor&quot;: &quot;Run&quot;,
-    &quot;TestNG.LoginTests.LoginSuccesful.executor&quot;: &quot;Run&quot;,
-    &quot;TestNG.LoginTests.LoginUnSuccesful.executor&quot;: &quot;Run&quot;,
-    &quot;TestNG.LoginTests.SearchAndAddToCart.executor&quot;: &quot;Run&quot;,
-    &quot;TestNG.LoginTests.executor&quot;: &quot;Run&quot;,
-    &quot;git-widget-placeholder&quot;: &quot;master&quot;,
-    &quot;kotlin-language-version-configured&quot;: &quot;true&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "Maven. [org.apache.maven.plugins:maven-archetype-plugin:RELEASE:generate].executor": "Run",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "RunOnceActivity.git.unshallow": "true",
+    "TestNG.LoginTests.ExistingRegistration.executor": "Run",
+    "TestNG.LoginTests.LoginSuccesful.executor": "Run",
+    "TestNG.LoginTests.LoginUnSuccesful.executor": "Run",
+    "TestNG.LoginTests.SearchAndAddToCart.executor": "Run",
+    "TestNG.LoginTests.executor": "Run",
+    "TestNG.PetStoreTest.GetUser.executor": "Run",
+    "TestNG.PetStoreTest.executor": "Run",
+    "git-widget-placeholder": "master",
+    "kotlin-language-version-configured": "true"
   }
-}</component>
-  <component name="RunManager" selected="TestNG.LoginTests.ExistingRegistration">
+}]]></component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\Ahmet\source\repos\Selenium Tests\hepsiburada-test-automation\hepsiburada-manuel-test" />
+    </key>
+  </component>
+  <component name="RunManager" selected="TestNG.PetStoreTest">
     <configuration name="LoginTests" type="TestNG" temporary="true" nameIsGenerated="true">
       <module name="Hepsiburada-test-automation" />
       <option name="PACKAGE_NAME" value="" />
@@ -85,23 +108,22 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="LoginTests.LoginUnSuccesful" type="TestNG" temporary="true" nameIsGenerated="true">
-      <module name="Hepsiburada-test-automation" />
+    <configuration name="PetStoreTest" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="RestAPI-Test" />
       <option name="PACKAGE_NAME" value="" />
-      <option name="MAIN_CLASS_NAME" value="LoginTests" />
-      <option name="METHOD_NAME" value="LoginUnSuccesful" />
-      <option name="TEST_OBJECT" value="METHOD" />
+      <option name="MAIN_CLASS_NAME" value="PetStoreTest" />
+      <option name="TEST_OBJECT" value="CLASS" />
       <properties />
       <listeners />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="LoginTests.SearchAndAddToCart" type="TestNG" temporary="true" nameIsGenerated="true">
-      <module name="Hepsiburada-test-automation" />
+    <configuration name="PetStoreTest.GetUser" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="RestAPI-Test" />
       <option name="PACKAGE_NAME" value="" />
-      <option name="MAIN_CLASS_NAME" value="LoginTests" />
-      <option name="METHOD_NAME" value="SearchAndAddToCart" />
+      <option name="MAIN_CLASS_NAME" value="PetStoreTest" />
+      <option name="METHOD_NAME" value="GetUser" />
       <option name="TEST_OBJECT" value="METHOD" />
       <properties />
       <listeners />
@@ -111,11 +133,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="TestNG.PetStoreTest" />
+        <item itemvalue="TestNG.PetStoreTest.GetUser" />
         <item itemvalue="TestNG.LoginTests.ExistingRegistration" />
         <item itemvalue="TestNG.LoginTests.LoginSuccesful" />
         <item itemvalue="TestNG.LoginTests" />
-        <item itemvalue="TestNG.LoginTests.SearchAndAddToCart" />
-        <item itemvalue="TestNG.LoginTests.LoginUnSuccesful" />
       </list>
     </recent_temporary>
   </component>
@@ -144,7 +166,15 @@
       <option name="project" value="LOCAL" />
       <updated>1737452404854</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="Add Manuel Test Files(xlsx)">
+      <option name="closed" value="true" />
+      <created>1737460068046</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1737460068046</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -161,6 +191,7 @@
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Add existing registration method and fix errors." />
     <MESSAGE value="Add Allure Serve Reports" />
-    <option name="LAST_COMMIT_MESSAGE" value="Add Allure Serve Reports" />
+    <MESSAGE value="Add Manuel Test Files(xlsx)" />
+    <option name="LAST_COMMIT_MESSAGE" value="Add Manuel Test Files(xlsx)" />
   </component>
 </project>
